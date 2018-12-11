@@ -5,12 +5,6 @@ using System.Web;
 
 namespace EstagiosDEIS.Models
 {
-    public enum Ramo {
-        DesenvolvimentodeAplicações,
-        SistemasdeInformação,
-        RedeseAdministraçãodeSistemas
-    }
-
     public enum EstadoEstagio {
         PorComeçar,
         ADecorrer,
